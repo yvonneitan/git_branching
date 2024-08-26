@@ -1,0 +1,5 @@
+.env
+excluded_folder
+included_folder/sub_excluded_folder
+node_modules
+.DS_Store
